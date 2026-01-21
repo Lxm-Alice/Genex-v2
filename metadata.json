@@ -1,0 +1,7 @@
+{
+  "name": "VitalityPulse - Health Community Manager",
+  "description": "A sophisticated dashboard for managing health communities, tracking wellness trends, and generating AI-powered health insights for groups.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
